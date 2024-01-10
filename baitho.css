@@ -1,0 +1,28 @@
+.tieude{
+    color: blue;
+}
+h1{
+    color: blue;
+}
+p{
+color: green;
+}
+b{
+    color: red;
+}
+strong{
+color: orange
+}
+a:active{
+    color: red;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: green;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}

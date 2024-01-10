@@ -1,0 +1,24 @@
+.header{
+    text-align: center;
+}
+a{
+
+    text-decoration: none;
+    font-family: 'Times New Roman';
+}
+a:link{
+    color: blue;
+}
+a:active{
+    color: red;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: green;
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+}
